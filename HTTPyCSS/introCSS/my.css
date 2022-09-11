@@ -1,0 +1,12 @@
+.encabezado {
+    color: blue;
+}
+
+
+#elemento-1 {
+    color: red;
+}
+
+li#elemento-1 {
+    font-size: 2rem;
+}
