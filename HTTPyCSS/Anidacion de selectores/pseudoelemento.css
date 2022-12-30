@@ -1,0 +1,15 @@
+
+ div > button:before{
+    display: block;
+    content: "Cualquier cosa";
+  }
+
+  div > button:hover:before{
+    display: block;
+    content: "otra cosa";
+  }
+
+  div > button:hover{
+    background-color: green;
+    color:white;
+  }
